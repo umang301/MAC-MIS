@@ -14,5 +14,6 @@ Main Functionalities include:
 	- All Employer Info
 	- Employer from specific city
 	- All open positions
+
 - Technology Used: php, HTML, CSS, JavaScript
 - Database: MySQL
