@@ -1,5 +1,5 @@
 # MAC-MIS
-MAC-MIS a Web Application for MAC program of University of Windsor which keeps track of student from registration to graduation to alumni. Main functionalities include:
+MAC-MIS is a Web Application for MAC program of University of Windsor which keeps track of student from registration to graduation to alumni. Main functionalities include:
 	•	Staff user accounts
 	•	Faculty user accounts
 	•	Student user accounts
