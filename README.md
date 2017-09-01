@@ -14,7 +14,3 @@ MAC-MIS a Web Application for MAC program of University of Windsor which keeps t
 		-	All Employer Info
 		-	Employer from specific city
 		-	All Open positions
-
-
-
-
