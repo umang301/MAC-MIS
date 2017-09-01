@@ -14,3 +14,6 @@ MAC-MIS is a Web Application for MAC program of University of Windsor which keep
 		-	All Employer Info
 		-	Employer from specific city
 		-	All Open positions
+		
+Technology Used: php, HTML, CSS, JavaScript
+Database: MySQL
